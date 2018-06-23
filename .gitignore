@@ -1,10 +1,3 @@
 icon.png.import
 .mono/metadata/api_assemblies.cfg
-.mono/temp/bin/Tools/Test.dll
-.mono/temp/bin/Tools/Test.pdb
-.mono/temp/obj/Tools/Test.dll
-.mono/temp/obj/Tools/Test.pdb
-.mono/temp/obj/Tools/Test.csproj.CoreCompileInputs.cache
-.mono/temp/obj/Tools/Test.csproj.FileListAbsolute.txt
-.mono/temp/obj/Tools/Test.csprojResolveAssemblyReference.cache
-.mono/metadata/api_assemblies.cfg
+.mono/temp/*
