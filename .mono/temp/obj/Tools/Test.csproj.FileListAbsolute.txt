@@ -1,0 +1,6 @@
+C:\Users\NAG\Documents\Test\.mono\temp\bin\Tools\Test.dll
+C:\Users\NAG\Documents\Test\.mono\temp\bin\Tools\Test.pdb
+C:\Users\NAG\Documents\Test\.mono\temp\obj\Tools\Test.csprojResolveAssemblyReference.cache
+C:\Users\NAG\Documents\Test\.mono\temp\obj\Tools\Test.csproj.CoreCompileInputs.cache
+C:\Users\NAG\Documents\Test\.mono\temp\obj\Tools\Test.dll
+C:\Users\NAG\Documents\Test\.mono\temp\obj\Tools\Test.pdb
