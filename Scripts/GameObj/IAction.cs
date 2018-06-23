@@ -1,6 +1,4 @@
-﻿
-    public interface IAction
-    {
+﻿public interface IAction
+{
 	void objAction();
-    }
- 
+}
