@@ -4,3 +4,9 @@ C:\Users\NAG\Documents\Test\.mono\temp\obj\Tools\Test.csprojResolveAssemblyRefer
 C:\Users\NAG\Documents\Test\.mono\temp\obj\Tools\Test.csproj.CoreCompileInputs.cache
 C:\Users\NAG\Documents\Test\.mono\temp\obj\Tools\Test.dll
 C:\Users\NAG\Documents\Test\.mono\temp\obj\Tools\Test.pdb
+F:\gamedev\GODOT\proj\workGAme\MyTestCode\.mono\temp\bin\Tools\Test.dll
+F:\gamedev\GODOT\proj\workGAme\MyTestCode\.mono\temp\bin\Tools\Test.pdb
+F:\gamedev\GODOT\proj\workGAme\MyTestCode\.mono\temp\obj\Tools\Test.csprojResolveAssemblyReference.cache
+F:\gamedev\GODOT\proj\workGAme\MyTestCode\.mono\temp\obj\Tools\Test.csproj.CoreCompileInputs.cache
+F:\gamedev\GODOT\proj\workGAme\MyTestCode\.mono\temp\obj\Tools\Test.dll
+F:\gamedev\GODOT\proj\workGAme\MyTestCode\.mono\temp\obj\Tools\Test.pdb
