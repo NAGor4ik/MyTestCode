@@ -1,9 +1,8 @@
 ﻿using System;
 
-    public class MangerAction
-    {
-        public MangerAction()
-        {
-        }
-    }
-
+public class MangerAction
+{
+	public MangerAction()
+	{
+	}
+}
